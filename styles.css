@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(145, 122, 179);
+  }
+img {
+    outline: #90e0ff solid 10px;
+    margin: auto;  
+    text-align: center
+}
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
